@@ -7,7 +7,7 @@ Skills: HTML | CSS | Python
 - 🌱 I’m currently learning IOT 
 - 👯 I’m looking to collaborate on Android Development 
 - 🤔 I’m looking for help with Flutter 
-- 📫 How to reach me: renukaperumalraju@gmail.com 
+- 📫 How to reach me: renukapp16052000@gmail.com 
 - 😄 Pronouns: She/Her 
 
 
